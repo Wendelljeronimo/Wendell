@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wendelljeronimo
+- 👋 Hi, I’m @Wendell
 - 👀 I’m interested in programming and games
 - 🌱 I’m currently learning programming
 
